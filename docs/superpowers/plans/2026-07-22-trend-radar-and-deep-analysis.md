@@ -114,7 +114,11 @@ today even on YouTube.
       (`docs/follow-ups.md`, Task 9 Step 1/6). Budget: $49–100/mo (EnsembleData-class).
       When evaluating, check specifically for a *trending-content* endpoint, not just
       per-profile scraping — Track 1 needs "what's trending," Track 2 needs "what did this
-      creator post."
+      creator post." **Erez is now asking for this explicitly (2026-07-26)** — most of the
+      creators he's hand-added this week (andr3w_wave, Bufones.net, Zach Justice, etc.) post
+      to Instagram too, and the bot still can't see any of it. This is a real priority bump,
+      not just a nice-to-have — but it's still a budget decision only Erez/Elik can make;
+      Claude can research and compare vendor options on request, not sign up for or pay one.
 - [ ] **Facebook — this is two different asks, don't conflate them:**
       1. **Erez's own page** (100K followers) — easy and free: Graph API + a Page Access
          Token Erez generates himself. He owns the page, so this needs no personal login/
